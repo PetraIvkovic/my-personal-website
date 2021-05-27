@@ -1,0 +1,182 @@
+            body {
+                background-color: #edffec;
+                font-family: "Montserrat", sans-serif;
+                margin: 0;
+                text-align: center;
+            }
+
+
+            /* NASLOVI */
+
+            h1 {
+                color: #6aa89f;
+                font-family: "Sacramento", cursive;
+                font-size: 5rem;
+                line-height: 2;
+                maring-top: 0;
+            }
+
+            h2 {
+                color: #6aa89f;
+                font-family: "Sacramento", cursive;
+                font-size: 3.5rem;
+                line-height: 2;
+
+            }
+
+            h3 {
+                color: #4c7871;
+                font-family: "Montserrat", sans-serif;
+                font-weight: ;
+                font-size: 3rem;
+                margin-top: 3%;
+                margin-bottom: 2%;
+            }
+
+
+
+            /* UVOD DIVS */
+
+            .introduction {
+                position: relative;
+
+            }
+
+            .sadrzaj {
+                display: inline-block;
+                padding: 2% 12.5% 10% 5%;
+                width: 50%;
+                line-height: 2;
+             }
+
+            .link {
+                color: #5ea197;
+                font-family: "Montserrat", sans-serif;
+                font-weight: bold;
+                font-size: 1.2rem;
+                text-decoration: none;
+                position: relative;
+                display: block;
+                padding-top: 2%;
+                padding-left: 15%;
+            }
+
+            .link:hover {
+               color: #4c7871;
+            }
+
+
+            /* SLIKE */
+
+            .cloud-top {
+              position: absolute;
+              left: 82%;
+              top: 5%;
+              width: 15%;
+            }
+
+            .cloud-bottom {
+               position: absolute;
+               top: 35%;
+               right: 78%;
+               width: 12%;
+            }
+
+            .cv-img {
+                padding-left: 15%;
+                width: 17%;
+                margin: 5%
+                margin-left: 25%;
+            }
+
+            .message-img {
+                margin-top: 5%;
+                width: 8%;
+            }
+
+
+            /* FOOTER */
+
+             .page2 {
+                font-family: "Montserrat", sans-serif;
+                font-weight: 600;
+                margin-bottom: 3%;
+            }
+
+            .contact {
+                margin-bottom: 10%;
+            }
+
+            .input-container {
+                color: #4c7871;
+                font-weight: bold;
+                border: 1px solid;
+                display: inline-block;
+                box-shadow: 3px 4px;
+                border-radius: 15px;
+                margin-top: 3%;
+                padding: 3%;
+            }
+
+            .input-message {
+                   margin: 0.5%;
+            }
+
+            .input-name-email {
+               /* padding-right: 25%;
+                padding-left: 45px;
+                margin-right: 13%; */
+                margin: 0.5%;
+            }
+
+            .input-field {
+                width: 57%;
+            }
+
+            .submit-button {
+                color: #fff;
+                background-color: #6aa89f;
+                font-size: 1rem;
+                margin: 2%;
+                border: 2px solid;
+                border-radius: 7px;
+            }
+
+            .submit-button:hover {
+                background-color: #edffec;
+                color: #000000;
+            }
+
+            .textarea {
+                resize: none;
+                rows: "5";
+                cols: "10";
+            }
+
+
+            /* GET IN TOUCH */
+
+            a {
+              color: #6aa89f;
+              font-family: "Montserrat", sans-serif;
+              font-size: 1rem;
+              text-decoration: none;
+            }
+
+            a:hover {
+               color: #4c7871;
+            }
+
+            /* COPYRIGHT */
+
+            .copyright {
+                color: #fff;
+                font-size: 0.8rem;
+                background-color: #6aa89f;
+                margin-top: 4%;
+                padding: 1%;
+            }
+
+            .author {
+                padding: 2%;
+            }
